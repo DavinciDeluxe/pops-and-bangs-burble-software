@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "pops-and-bangs-burble-software — DaVinci Deluxe Cloud Edition (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/online-ecu-tuning"
+repository-code: "https://github.com/DavinciDeluxe/pops-and-bangs-burble-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
